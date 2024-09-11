@@ -1,0 +1,6 @@
+PyQt6==6.5.1
+transformers==4.33.0
+pytesseract==0.7.0
+Pillow==10.0.0
+gtts==2.3.0
+torch==2.0.1
